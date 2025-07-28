@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @emecyildiz
-- 🌱 I’m currently learning HTML,CSS, C#, PYTHON, SQL and C  language...
+- 🌱 I’m currently learning HTML,CSS, C#, PYTHON, SQL and javascript language...
 - 📫 How to reach me emecyildiz01@gmail.com
 
 <!---
