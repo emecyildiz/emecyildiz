@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Learning Web Development , OS and exploring new technologies<br>🚀 Currently focused on JavaScript & Node.js<br>📚 Love turning ideas into small projects<br>🌍 Open to collaboration and learning together
+💻 Learning Web Development , OS and exploring new technologies<br>🚀 Currently focused on cybersecurity<br>📚 Love turning ideas into projects<br>🌍 Open to collaboration and learning together
 
 
 ## 🌐 Socials:
